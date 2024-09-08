@@ -1,0 +1,144 @@
+,sorgu,label,le
+0,kredi kartımı kaybettim,kartkayip,1
+1,banka kartımı kaybettim,kartkayip,1
+2,kredi kartımı bulamıyorum,kartkayip,1
+3,kredi kartım çalındı,kartkayip,1
+4,kredi kartımın olduğunu bilmiyorum,kartkayip,1
+5,kredi kartımın olduğu çüzdan çalındı,kartkayip,1
+6,kredi kartım kayboldu,kartkayip,1
+7,banka kartım kayboldu,kartkayip,1
+8,banka kartımı bulamıyorum,kartkayip,1
+9,banka kartım çalındı,kartkayip,1
+10,banka kartımın olduğunu bilmiyorum,kartkayip,1
+11,banka kartımın olduğu cüzdan çalındı,kartkayip,1
+12,banka kartım kayboldu,kartkayip,1
+13,kredi kartımı unuttum,kartkayip,1
+14,banka kartımı unuttum,kartkayip,1
+15,kredi kartımı arıyorum,kartkayip,1
+16,banka kartımı arıyorum,kartkayip,1
+17,kredi kartımı bulamıyorum,kartkayip,1
+18,banka kartımı bulamıyorum,kartkayip,1
+19,kredi kartımı kaybetmiş olabilirim,kartkayip,1
+20,banka kartımı kaybetmiş olabilirim,kartkayip,1
+21,kredi kartım çalınmış olabilir,kartkayip,1
+22,banka kartım çalınmış olabilir,kartkayip,1
+23,kredi kartımın yerini hatırlamıyorum,kartkayip,1
+24,banka kartımın yerini hatırlamıyorum,kartkayip,1
+25,kredi kartımın yerini unuttum,kartkayip,1
+26,banka kartımın yerini unuttum,kartkayip,1
+27,kredi kartımın yerini bulamıyorum,kartkayip,1
+28,banka kartımın yerini bulamıyorum,kartkayip,1
+29,kredi kartımı çaldırdım,kartkayip,1
+30,banka kartımı çaldırdım,kartkayip,1
+31,kredi kartımı bulamıyorum yardım eder misiniz ,kartkayip,1
+32,banka kartımı bulamıyorum yardım eder misiniz ,kartkayip,1
+33,kredi kartımın kaybolduğunu düşünüyorum,kartkayip,1
+34,banka kartımın kaybolduğunu düşünüyorum,kartkayip,1
+35,kredi kartımı bulmak yapmalıyım ,kartkayip,1
+36,banka kartımı bulmak yapmalıyım ,kartkayip,1
+37,kredi kartımın kaybolduğunu bildirmeliyim ,kartkayip,1
+38,banka kartımın kaybolduğunu bildirmeliyim ,kartkayip,1
+39,kredi kartımı çaldırdım yapmalıyım ,kartkayip,1
+40,banka kartımı çaldırdım yapmalıyım ,kartkayip,1
+41,kredi kartımın çalındığını anlarım ,kartkayip,1
+42,banka kartımın çalındığını anlarım ,kartkayip,1
+43,kredi kartımın çalındığını rapor ederim ,kartkayip,1
+44,banka kartımın çalındığını rapor ederim ,kartkayip,1
+45,kredi kartımın kullanıldığını kontrol ederim ,kartkayip,1
+46,banka kartımın kullanıldığını kontrol ederim ,kartkayip,1
+47,kredi kartımı kaybetmişsem yapmalıyım ,kartkayip,1
+48,banka kartımı kaybetmişsem yapmalıyım ,kartkayip,1
+0,kredi kartı borcumu ödemek istiyorum,borcodeme,0
+1,kart borcumu ödemek istiyorum,borcodeme,0
+2,bu ayki kredi kartı ödememi yapmak istiyorum,borcodeme,0
+3,kredi kartı borcu ödemek istiyorum,borcodeme,0
+4,kredi kartı borcumun asgari tutarını ödemek istiyorum,borcodeme,0
+5,kart borcumu ödeyecem,borcodeme,0
+6,kredi kartı borcu ödeme,borcodeme,0
+7,borç ödeme,borcodeme,0
+8,kredi kartı borcumu kapatmak istiyorum,borcodeme,0
+9,kart borcumu kapatmak istiyorum,borcodeme,0
+10,kredi kartı ödememi gerçekleştirmek istiyorum,borcodeme,0
+11,bu ayki borcumu ödeyebilir miyim ,borcodeme,0
+12,kredi kartı borç ödeme planımı görmek istiyorum,borcodeme,0
+13,kredi kartı borcumu online ödemek istiyorum,borcodeme,0
+14,kredi kartı borcumu hemen ödemek istiyorum,borcodeme,0
+15,kart borcumun tamamını kapatmak istiyorum,borcodeme,0
+16,kredi kartı borcumun detaylarını görmek istiyorum,borcodeme,0
+17,borçlarımı düzenli bir şekilde ödemek istiyorum,borcodeme,0
+18,kredi kartı borcumu hızlı bir şekilde ödemek istiyorum,borcodeme,0
+19,kredi kartı borcumun ödeme tarihini öğrenmek istiyorum,borcodeme,0
+20,kart borcumu hemen ödüyorum,borcodeme,0
+21,kredi kartı borcumu kapatma seçenekleri neler ,borcodeme,0
+22,kart borcumu ödeyebilirim ,borcodeme,0
+23,bu ayki kredi kartı borcumu öğrenebilirim ,borcodeme,0
+24,kredi kartı borcumu taksitli ödemek istiyorum,borcodeme,0
+25,kart borcumu taksitlendirme,borcodeme,0
+26,kredi kartı borcumu yarıda bırakmak istiyorum,borcodeme,0
+27,kart borcumun minimum tutarını ödemek istiyorum,borcodeme,0
+28,kredi kartı borcumu ödeme konusunda yardım istiyorum,borcodeme,0
+29,kart borcumu düzenli olarak ödemek istiyorum,borcodeme,0
+30,kredi kartı borcumu bir seferde ödemek istiyorum,borcodeme,0
+31,kart borcumu zaman ödemeliyim ,borcodeme,0
+32,bu ayki kredi kartı ödemesini kaçırmak istemiyorum,borcodeme,0
+33,kredi kartı borcumu indirimli ödemek istiyorum,borcodeme,0
+34,kart borcumu hemen kapatmak istiyorum,borcodeme,0
+35,kredi kartı borcumu ödeyebilmek yapmalıyım ,borcodeme,0
+36,kart borcumu ödeme seçenekleri neler ,borcodeme,0
+37,kredi kartı borcumu kapatmak uygun bir yol arıyorum,borcodeme,0
+38,bu ayki kredi kartı ekstremi ödeme zamanımı öğrenmek istiyorum,borcodeme,0
+39,kart borcumu online bankacılık üzerinden ödemek istiyorum,borcodeme,0
+40,kredi kartı borcumu düzenli olarak kontrol etmek istiyorum,borcodeme,0
+41,kart borcumu kapatmak kadar ödemem gerekiyor ,borcodeme,0
+42,kredi kartı borcumun güncel tutarını öğrenmek istiyorum,borcodeme,0
+43,kart borcumu hemen kapatmalı mıyım yoksa taksitlendirmeli miyim ,borcodeme,0
+44,kredi kartı borcumu bir defada kapatmak istiyorum,borcodeme,0
+45,kart borcumu kısa sürede ödemek istiyorum,borcodeme,0
+46,kredi kartı borcumu ödemek otomatik ödeme talimatı verebilir miyim ,borcodeme,0
+0,anneme para göndermek istiyorum,paragonderme,2
+1,para transferi yapmak istiyorum,paragonderme,2
+2,fast para göndermek istiyorum,paragonderme,2
+3,kayıtlı numaraya para transferi,paragonderme,2
+4,para göndermek istiyorum,paragonderme,2
+5,para transferi yapmak istiyorum,paragonderme,2
+6,eft para göndermek istiyorum,paragonderme,2
+7,havale para göndermek istiyorum,paragonderme,2
+8,anneme hemen para göndermek istiyorum,paragonderme,2
+9,hızlı bir şekilde para transferi yapmak istiyorum,paragonderme,2
+10,banka hesabına para göndermek istiyorum,paragonderme,2
+11,mobil uygulama üzerinden para transferi,paragonderme,2
+12,online olarak para göndermek istiyorum,paragonderme,2
+13,para transferi yapmalıyım ,paragonderme,2
+14,kolay bir şekilde para göndermek istiyorum,paragonderme,2
+15,anneme acil para göndermek istiyorum,paragonderme,2
+16,para gönderme işlemi yapılır ,paragonderme,2
+17,para transferi gereken bilgiler neler ,paragonderme,2
+18,hesap numarasına para transferi yapmak istiyorum,paragonderme,2
+19,kredi kartıyla para göndermek istiyorum,paragonderme,2
+20,para transferi ücretleri neler ,paragonderme,2
+21,mobil cüzdan üzerinden para göndermek istiyorum,paragonderme,2
+22,banka şubesinden para transferi,paragonderme,2
+23,hesap bilgilerini kullanarak para göndermek istiyorum,paragonderme,2
+24,para transferi işlem süresi nedir ,paragonderme,2
+25,anneme güvenli bir şekilde para göndermek istiyorum,paragonderme,2
+26,para gönderme limiti nedir ,paragonderme,2
+27,kredi kartıyla hızlı para transferi yapmak istiyorum,paragonderme,2
+28,havale ücretleri neler ,paragonderme,2
+29,para transferi yaparken nelere dikkat etmeliyim ,paragonderme,2
+30,banka hesabıma para göndermek istiyorum,paragonderme,2
+31,eft ücretleri nedir ,paragonderme,2
+32,mobil uygulama üzerinden hemen para göndermek istiyorum,paragonderme,2
+33,kredi kartıyla anında para transferi yapmak istiyorum,paragonderme,2
+34,para gönderme işlemi güvenli mi ,paragonderme,2
+35,havale yaparken nelere dikkat etmeliyim ,paragonderme,2
+36,para transferi sırasında hangi bilgiler gerekli ,paragonderme,2
+37,anneme online olarak para göndermek istiyorum,paragonderme,2
+38,fast hızlı para göndermek istiyorum,paragonderme,2
+39,hesap bilgileri olmadan para transferi yapabilir miyim ,paragonderme,2
+40,banka şubesine gitmeden para göndermek istiyorum,paragonderme,2
+41,para transferi yaparken alınan komisyonlar neler ,paragonderme,2
+42,havale işlemi gereken bilgiler neler ,paragonderme,2
+43,kredi kartıyla güvenli para transferi yapmak istiyorum,paragonderme,2
+44,para gönderme işlemi sonrasında bilgilendirme alabilirim ,paragonderme,2
+45,eft işlem süresi nedir ,paragonderme,2
+46,mobil cüzdan kolay para transferi yapmak istiyorum,paragonderme,2

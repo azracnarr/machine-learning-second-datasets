@@ -1,0 +1,111 @@
+Year,Tour_No,Winner,Country,Team,Tour_overall_length_(km),age,BMI,weight_(Kg),height_(m),rider_type_(PPS),close_rider_type_(PPS)
+2023,110,Jonas Vingegaard,Denmark,Team Jumbo Visma,3406,25,19.6,60,1.749635531,climber,
+2022,109,Jonas Vingegaard,Denmark,Team Jumbo Visma,3328,25,19.6,60,1.749635531,climber,
+2021,108,Tadej Pogacar,Slovenia,UAE Team Emirates,3383,22,21.3,66,1.760281668,climber,
+2020,107,Tadej Pogacar,Slovenia,UAE Team Emirates,3482,21,21.3,66,1.760281668,climber,
+2019,106,Egan Bernal,Colombia,Team Ineos ,3366,22,19.6,60,1.749635531,climber,
+2018,105,Geraint Thomas,United Kingdom,Team Sky,3349,32,21.2,71,1.830042787,climber,time trial
+2017,104,Chris Froome,United Kingdom,Team Sky,3540,36,19.9,69,1.862078592,climber ,time trial
+2016,103,Chris Froome,United Kingdom,Team Sky,3529,35,19.9,69,1.862078592,climber,time trial
+2015,102,Chris Froome,United Kingdom,Team Sky,3354,34,19.9,69,1.862078592,climber,time trial
+2014,101,Vincenzo Nibali,Italy,Astana Pro Team,3664,29,20.1,65,1.79828553,climber,
+2013,100,Chris Froome,United Kingdom,Team Sky,3404,32,19.9,69,1.862078592,climber,time trial
+2012,99,Bradley Wiggins,United Kingdom,Team Sky,3497,32,19.1,69,1.900674997,time trial ,
+2011,98,Cadel Evans,Australia,BMC Racing Team,3630,34,21.1,64,1.741601377,climber ,time trial
+2010,97,Andy Schleck ,Luxembourg,Team Saxo Bank,3642,25,19.7,68,1.857895759,climber,
+2009,96,Alberto Contador,Spain,Astana,3460,26,20,62,1.760681686,climber,time trial
+2008,95,Carlos Sastre,Spain,Team CSC Saxo Bank,3554,33,20,60,1.732050808,climber,
+2007,94,Alberto Contador,Spain,Discovery Channel,3570,24,20,62,1.760681686,climber ,time trial
+2006,93,Oscar Pereiro ,Spain,Caisse d'Epargne,3657,30,21.7,68,1.770209183,time trial ,climber 
+2005,92,Lance armstrong,USA,Discovery Channel,3593,34,23.9,75,1.77146135,time trial ,climber 
+2004,91,Lance armstrong,USA,US Postal Service,3390,33,23.9,75,1.77146135,time trial ,climber 
+2003,90,Lance armstrong,USA,US Postal Service,3428,32,23.9,75,1.77146135,time trial ,climber 
+2002,89,Lance armstrong,USA,US Postal Service,3272,31,23.9,75,1.77146135,time trial ,climber 
+2001,88,Lance armstrong,USA,US Postal Service,3454,30,23.9,75,1.77146135,time trial ,climber 
+2000,87,Lance armstrong,USA,US Postal Service,3663,29,23.9,75,1.77146135,time trial ,climber 
+1999,86,Lance armstrong,USA,US Postal Service,3870,28,23.9,75,1.77146135,time trial ,climber 
+1998,85,Marco Pantani,Italy,Mercatone Uno,3875,28,19.3,57,1.718536551,climber,
+1997,84,Jan Ullrich,Germany,Telekom,3950,24,21.8,73,1.829924549,time trial ,climber 
+1996,83,Bjarne Riis ,Dnmark,Telekom,3765,32,21,71,1.838736626,climber ,time trial
+1995,82,Miguel Indurain,Spain,Banesto,3635,31,23.1,80,1.860968421,time trial ,
+1994,81,Miguel Indurain,Spain,Banesto,3978,30,23.1,80,1.860968421,time trial ,
+1993,80,Miguel Indurain,Spain,Banesto,3714,29,23.1,80,1.860968421,time trial ,
+1992,79,Miguel Indurain,Spain,Banesto,3983,28,23.1,80,1.860968421,time trial ,
+1991,78,Miguel Indurain,Spain,Banesto,3914,27,23.1,80,1.860968421,time trial ,
+1990,77,Greg LeMond,United States,Z Tomasso,3504,29,21.1,67,1.781952707,time trial ,sprinter
+1989,76,Greg LeMond,United States,ADR,3285,28,21.1,67,1.781952707,time trial ,sprinter
+1988,75,Pedro Delgado,Spain,Reynolds,3286,28,21.9,64,1.709495373,climber ,time trial
+1987,74,Stephen Roche,Ireland,Carrera,4231,28,24.2,74,1.748671278,time trial ,
+1986,73,Greg LeMond,United States,La Vie Claire,4091,25,21.1,67,1.781952707,time trial ,sprinter
+1985,72,Bernard Hinault,France,La Vie Claire,4100,31,20.5,62,1.739077412,time trial ,
+1984,71,Laurent Fignon,France,Renault,4021,24,22.1,67,1.741170356,time trial ,sprinter
+1983,70,Laurent Fignon,France,Renault,3809,23,22.1,67,1.741170356,time trial ,sprinter
+1982,69,Bernard Hinault,France,Renault,3507,28,20.5,62,1.739077412,time trial ,
+1981,68,Bernard Hinault,France,Renault,3765,27,20.5,62,1.739077412,time trial ,
+1980,67,Joop Zoetemelk,Netherlands,TI Raleigh,3842,34,22.7,68,1.730778644,time trial ,
+1979,66,Bernard Hinault,France,Renault,3765,25,20.5,62,1.739077412,time trial ,
+1978,65,Bernard Hinault,France,Renault,3908,24,20.5,62,1.739077412,time trial ,
+1977,64,Bernard Thevenet,France,Peugeot,4098,29,,,,time trial ,climber 
+1976,63,Lucien Van Impe,Belgium,Gitane,4017,30,,58,,climber ,time trial
+1975,62,Bernard Thevenet,France,Peugeot,4000,27,,,,time trial ,
+1974,61,Eddy Merckx,Belgium,Molteni,4098,29,22.3,74,1.821643667,sprinter,time trial
+1973,60,Luis Ocana,Spain,Bic,4090,28,19.1,52,1.650003966,time trial ,
+1972,59,Eddy Merckx,Belgium,Molteni,3846,27,22.3,74,1.821643667,sprinter,time trial
+1971,58,Eddy Merckx,Belgium,Molteni,3608,26,22.3,74,1.821643667,sprinter,time trial
+1970,57,Eddy Merckx,Belgium,Faemino,4254,25,22.3,74,1.821643667,sprinter,time trial
+1969,56,Eddy Merckx,Belgium,Faema,4117,24,22.3,74,1.821643667,sprinter,time trial
+1968,55,Jan Janssen,Netherlands,Holland,4492,28,,,,sprinter,
+1967,54,Roger Pingeon,France,France,4780,27,21.7,72,1.821530222,time trial ,sprinter 
+1966,53,Lucien Aimar,France,Ford,4329,25,,,,sprinter,climber 
+1965,52,Felice Gimondi,Italy,Salvarini,4188,23,21.7,71,1.808836477,sprinter,time trial
+1964,51,Jacques Anquetil,France,St-Raphael,4504,30,22.6,70,1.759927593,time trial ,
+1963,50,Jacques Anquetil,France,St-Raphael,4137,29,22.6,70,1.759927593,time trial ,
+1962,49,Jacques Anquetil,France,St-Raphael,4274,28,22.6,70,1.759927593,time trial ,
+1961,48,Jacques Anquetil,France,France,4397,27,22.6,70,1.759927593,time trial ,
+1960,47,Gastone Nencini,Italy,Italy,4173,30,,,,sprinter,
+1959,46,Federico Bahamontes,Spain,Spain,4355,31,,,,sprinter,time trial
+1958,45,Charly Gaul,Luxembourg,Holland Luxembourg,4319,26,21.4,64,1.729350805,sprinter ,time trial
+1957,44,Jacques Anquetil,France,France,4669,23,22.6,70,1.759927593,time trial ,
+1956,43,Roger Walkowiak,France,Nord Est Centre,4496,29,,,,sprinter,
+1955,42,Louison Bobet,France,France,4495,30,23.4,75,1.790287185,sprinter,
+1954,41,Louison Bobet,France,France,4656,29,23.4,75,1.790287185,sprinter,
+1953,40,Louison Bobet,France,France,4479,28,23.4,75,1.790287185,sprinter,
+1952,39,Fausto Coppi,Italy,Italy,4898,33,21.7,68,1.770209183,sprinter,
+1951,38,Hugo Koblet,Switzerland,Switzerland,4690,26,,,,sprinter,
+1950,37,Ferdinand Kubler,Switzerland,Switzerland,4775,31,21.7,68,1.770209183,sprinter,
+1949,36,Fausto Coppi,Italy,Italy,4808,30,22.3,66,1.720360792,sprinter,
+1948,35,Gino Bartali,Italy,Italy,4922,34,23.1,60,1.611645928,sprinter ,
+1947,34,Jean Robic,France,Ouest,4640,26,,,,climber ,sprinter 
+1939,33,Sylvere Maes,Belgium,Belgium,4224,30,22.6,66,1.708904322,sprinter ,time trial
+1938,32,Gino Bartali,Italy,Italy,4694,24,,,,sprinter,
+1937,31,Roger Lapebie,France,France,4415,26,,,,sprinter,
+1936,30,Sylvere Maes,Belgium,Belgium,4442,27,,,,sprinter,time trial
+1935,29,Romain Maes,Belgium,Belgium,4338,22,,,,sprinter,
+1934,28,Antonin Magne,France,France,4470,30,,,,sprinter ,
+1933,27,Georges Speicher,France,France,4395,26,,,,sprinter,
+1932,26,Andre Leducq,France,France,4479,28,,,,sprinter,
+1931,25,Antonin Magne,France,France,5091,27,,,,sprinter,
+1930,24,Andre Leducq,France,France,4822,26,,,,sprinter,
+1929,23,Maurice De Waele,Belgium,Alcyon,5286,33,,,,sprinter,
+1928,22,Nicolas Frantz,Luxembourg,Alcyon,5476,29,,,,sprinter,
+1927,21,Nicolas Frantz,Luxembourg,Alcyon,5398,28,,,,sprinter,
+1926,20,Lucien Buysse,Belgium,Automoto,5745,34,,,,climber ,sprinter 
+1925,19,Ottavio Bottecchia,Italy,Automoto,5440,31,,,,sprinter ,climber 
+1924,18,Ottavio Bottecchia,Italy,Automoto,5425,30,,,,sprinter ,climber 
+1923,17,Henri Pelissier,France,Automoto,5386,33,,,,sprinter ,climber 
+1922,16,Firmin Lambot,Belgium,Cycles Peugeot,5375,36,,,,climber,
+1921,15,Leon Scieur,Belgium,La Sportive,5484,33,,,,climber,
+1920,14,Philippe Thys,Belgium,La Sportive,5503,30,,,,climber ,sprinter 
+1919,13,Firmin Lambot,Belgium,La Sportive,5560,33,,,,climber,
+1914,12,Philippe Thys,Belgium,Cycles Peugeot,5380,24,,,,climber,sprinter 
+1913,11,Philippe Thys,Belgium,Cycles Peugeot,5287,23,,,,climber,sprinter 
+1912,10,Odile Defraye,Belgium,Alycon,5289,24,,,,sprinter,climber 
+1911,9,Gustave Garrigou,France,Alycon,5344,27,,,,climber,
+1910,8,Octave Lapize,France,Alycon,4734,21,,,,climber,sprinter 
+1909,7,Francois Faber,Luxembourg,Alycon,4497,22,27.8,88,1.779176109,climber,
+1908,6,Lucien Petit-Breton,France,Cycles Peugeot,4487,25,,,,climber,
+1907,5,Lucien Petit-Breton,France,Cycles Peugeot,"	4,488",24,,,,climber,
+1906,4,Rene Pottier,France,Cycles Peugeot,4637,27,,,,climber,
+1905,3,Louis Trousselier,France,Cycles Peugeot,2994,24,,,,climber,
+1904,2,Henri Cornet ,France,Cycles JC,2428,19,,,,climber,
+1903,1,Maurice Garin,France,La Francaise,2428,32,22.9,60,1.618668384,sprinter,
